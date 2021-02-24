@@ -1,4 +1,8 @@
-# OLS using QR decomposition.
+# Simple QR decomposition package.
+
+## features of this package:
+* QR decomposition using Hauseholder reflexion (`transform` method)
+* OLS using QR decomposition (`OLS` method)
 
 # Some examples:
 
